@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" style="enable-background:new 0 0 300 300;" xml:space="preserve" viewBox="36.64 65.37 226.72 169.26">
+<style type="text/css">
+	.st0{fill:#C7C6C6;}
+	.st1{fill:#E7468B;}
+	.st2{opacity:0.3;fill:#433F73;}
+	.st3{fill:#433F73;}
+	.st4{fill:#25183D;}
+	.st5{fill:#6B9AA4;}
+	.st6{fill:none;stroke:#433F73;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#F6F6F6;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#F6F6F6;}
+</style>
+<g>
+	<g>
+		<rect x="36.64" y="65.37" class="st1" width="226.72" height="24.44"/>
+		<path class="st0" d="M82.54,90.1v-7.8c0-3.86-3.13-6.98-6.98-6.98H43.62c-3.86,0-6.98,3.13-6.98,6.98v7.8v144.53h226.72V90.1    H82.54z"/>
+		<path class="st8" d="M253.33,81.74h-5.23c-0.85,0-1.54-0.69-1.54-1.54v-5.23c0-0.85,0.69-1.54,1.54-1.54h5.23    c0.85,0,1.54,0.69,1.54,1.54v5.23C254.86,81.05,254.17,81.74,253.33,81.74z"/>
+		<path class="st8" d="M237.98,81.74h-5.23c-0.85,0-1.54-0.69-1.54-1.54v-5.23c0-0.85,0.69-1.54,1.54-1.54h5.23    c0.85,0,1.54,0.69,1.54,1.54v5.23C239.52,81.05,238.83,81.74,237.98,81.74z"/>
+		<path class="st8" d="M222.63,81.74h-5.23c-0.85,0-1.54-0.69-1.54-1.54v-5.23c0-0.85,0.69-1.54,1.54-1.54h5.23    c0.85,0,1.54,0.69,1.54,1.54v5.23C224.17,81.05,223.48,81.74,222.63,81.74z"/>
+	</g>
+	<rect x="60.48" y="104.64" class="st1" width="179.04" height="43.52"/>
+	<circle class="st8" cx="150" cy="126.4" r="14.17"/>
+	<rect x="60.48" y="154.14" class="st1" width="54.21" height="62.08"/>
+	<rect x="191.23" y="154.14" class="st1" width="4.92" height="62.08"/>
+	<rect x="120.22" y="154.14" class="st9" width="66.28" height="4.02"/>
+	<rect x="120.22" y="163.81" class="st9" width="66.28" height="4.02"/>
+	<rect x="120.22" y="173.49" class="st9" width="43.95" height="4.02"/>
+	<rect x="120.22" y="183.17" class="st9" width="66.28" height="4.02"/>
+	<rect x="120.22" y="192.85" class="st9" width="66.28" height="4.02"/>
+	<rect x="120.22" y="202.52" class="st9" width="43.95" height="4.02"/>
+	<rect x="120.22" y="212.2" class="st9" width="66.28" height="4.02"/>
+	<rect x="200.87" y="158.51" class="st8" width="38.64" height="9.45"/>
+	<rect x="200.87" y="173.14" class="st8" width="38.64" height="9.45"/>
+	<rect x="200.87" y="187.77" class="st8" width="38.64" height="9.45"/>
+	<rect x="200.87" y="202.4" class="st8" width="38.64" height="9.45"/>
+</g>
+</svg>
